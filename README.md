@@ -1,2 +1,2 @@
-# aspnet-core6-web-api-fundamentals
-Repository for study notes. Course: ASP.NET Core 6 Web API Fundamentals By Kevin Dockx
+# ASP.NET Core 6 Web API Fundamentals
+Study notes from Kevin Dockx's ASP.NET Core 6 Web API Fundamentals course.
